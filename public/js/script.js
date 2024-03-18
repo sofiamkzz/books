@@ -41,5 +41,5 @@ document.addEventListener('DOMContentLoaded', function() {
             yearInput.value = "";
             yearInput.disabled = true;
         }
-        });
+    });
 });
